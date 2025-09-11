@@ -1,8 +1,8 @@
 # Alex | Applied Mathematics and AI
 
 **Bridging mathematics, machine learning, and data science to solve complex problems.**</br>
+</br>
 Passionate about randomness, stochastic processes, optimization, probabilistic modeling, and deep learning.</br>
-I enjoy coding projects that bring theory to life.
 
 # Programming Languages
 
