@@ -3,6 +3,8 @@
 **Bridging mathematics, machine learning, and data science to solve complex problems.**</br>
 </br>
 Passionate about randomness, stochastic processes, optimization, and deep learning.</br>
+</br>
+I like coding, btw.</br>
 
 # Programming Languages
 
