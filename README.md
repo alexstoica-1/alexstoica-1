@@ -4,7 +4,7 @@
 </br>
 Passionate about randomness, stochastic processes, optimization, and deep learning.</br>
 </br>
-I like coding, btw.</br>
+I like coding, btw..</br>
 
 # Programming Languages
 
