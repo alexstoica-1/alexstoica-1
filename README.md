@@ -1,4 +1,4 @@
-# Alex | Applied Mathematics and AI
+# Alex | Applied Mathematics and AI  (｡◝‿◜｡)
 
 **Bridging mathematics, machine learning, and data science to tackle real-world problems.**</br>
 </br>
@@ -6,7 +6,7 @@ Passionate about randomness, stochastic processes, optimization, and deep learni
 </br>
 I like coding, btw.</br>
 
-# Programming Languages
+# Programming Languages 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
