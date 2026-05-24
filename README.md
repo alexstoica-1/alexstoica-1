@@ -1,4 +1,4 @@
-# Alex | Applied Mathematics and AI  (｡◝‿◜｡)
+# Alex | Applied Mathematics and AI
 
 Coding is fun.</br>
 
