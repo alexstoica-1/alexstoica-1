@@ -1,6 +1,4 @@
-# Alex | Applied Mathematics and AI
-
-Coding is fun.</br>
+# Alex | Applied Mathematics, ML and AI
 
 # Programming Languages 
 
